@@ -112,3 +112,11 @@ header, footer {
 .accordion-button:not(.collapsed)::after{
 
 }
+/*about author
+---------------------------*/
+.author{
+    padding-bottom: 0;
+}
+.itd__img{
+    max-width: 260px;
+}
